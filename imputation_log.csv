@@ -1,0 +1,10 @@
+Station,Variable,Training values imputed,Testing values imputed,Training median used
+MURREE,Precipitation,580,148,0.0
+MURREE,Max,604,135,20.0
+MURREE,Min,613,153,11.7
+NARAN,Precipitation,580,127,0.0
+NARAN,Max,590,140,13.3
+NARAN,Min,592,134,11.0
+PLANDRI,Precipitation,599,136,0.0
+PLANDRI,Max,588,126,24.0
+PLANDRI,Min,616,147,9.0

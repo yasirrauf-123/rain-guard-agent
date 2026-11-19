@@ -1,0 +1,20 @@
+{
+    "MURREE": {
+        "Date": "2012-12-30",
+        "Rainfall_Probability": 0.03,
+        "Alert_Level": "Normal",
+        "Recommended_Action": "Continue routine rainfall monitoring."
+    },
+    "NARAN": {
+        "Date": "2012-12-29",
+        "Rainfall_Probability": 0.81,
+        "Alert_Level": "Moderate",
+        "Recommended_Action": "Increase monitoring and notify the designated focal person."
+    },
+    "PLANDRI": {
+        "Date": "2012-12-30",
+        "Rainfall_Probability": 0.29,
+        "Alert_Level": "Watch",
+        "Recommended_Action": "Monitor updated forecasts and local weather conditions."
+    }
+}
